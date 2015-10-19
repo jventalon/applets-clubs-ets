@@ -1,0 +1,27 @@
+#
+# generated on 2015/10/13 04:48:42
+#
+# --table-start--
+dataClass=com.clubapplets.laboclubsets.Club
+tableName=club
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=nom
+canBeNull=false
+# --field-end--
+# --field-start--
+fieldName=local
+# --field-end--
+# --field-start--
+fieldName=icone
+# --field-end--
+# --field-start--
+fieldName=siteweb
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
